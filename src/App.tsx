@@ -52,3 +52,8 @@ setUsers(users.map((curentuser) => {
 }
 
 export default App;
+git add *
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Arayik2010/type_react_task.git
+    git push -u origin main
